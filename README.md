@@ -13,3 +13,6 @@ Google Developer Groups Soongsil University의 Jake Yoon입니다.
 
 여러분의 열정이라면 무엇도 할 수 있다고 생각합니다.
 이후의 여러분의 모습을 응원합니다. 화이팅!  
+
+
+@PUBLIC LICENSE FOR ADUCATION - 모든 소스와 PPT 자료는 교육 목적일 경우 무단 수정 및 배포 가능합니다.
